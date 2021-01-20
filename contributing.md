@@ -16,6 +16,7 @@ Example: ```git checkout -b 123/feat/add-forget-password-button```
 7. After your first commit, create a draft pr and link it to the issue. Example using gh cli:
 
 ```gh pr create --body "Resolves #59" --title "add-forget-password-button" --project "HealthTree" --draft```
+
 8. Continue working and always push new commits by the end of your work day.
 9. Once you are done, change the description on the PR, mark it as ready for review.
 10. If somebody requests changes, implement them.
