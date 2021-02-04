@@ -2,9 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'Bug Report'
-labels: bug,
+labels: bug, Bug, BUG
 assignees: OtberCano
-projects: 2
 ---
 
 **Describe the bug**
