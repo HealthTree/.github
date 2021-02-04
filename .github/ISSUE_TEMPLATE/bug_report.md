@@ -1,10 +1,10 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
+title: 'Bug Report'
+labels: 'Bug'
 assignees: OtberCano
-
+projects: HealthTree
 ---
 
 **Describe the bug**
