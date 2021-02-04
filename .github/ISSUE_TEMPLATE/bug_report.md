@@ -2,9 +2,9 @@
 name: Bug report
 about: Create a report to help us improve
 title: 'Bug Report'
-labels: Bug
+labels: bug,
 assignees: OtberCano
-projects: HealthTree
+projects: 2
 ---
 
 **Describe the bug**
