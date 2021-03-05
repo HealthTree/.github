@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: ''
 labels: ''
-assignees: toddlfoster, PaulAlexAhlstrom, JpCapdevila
+assignees: JpCapdevila, toddlfoster, PaulAlexAhlstrom, OtberCano
 
 ---
 
